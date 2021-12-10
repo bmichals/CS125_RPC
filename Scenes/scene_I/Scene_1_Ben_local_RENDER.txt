@@ -1,0 +1,8 @@
+{
+    "filename": "~/Documents/CS125_RPS/Scenes/scene_I/Scene_1_Ben_local.mb",
+    "start": "275",
+    "end": "430",
+    "camera": "Shot_1_Ben",
+    "output": "~/Documents/CS125_RPS/Scenes/scene_I/ShotI",
+    "extra": ""
+}
