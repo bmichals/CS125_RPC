@@ -1,0 +1,8 @@
+{
+    "filename": "~/Documents/git/CS125_RPS/Scenes/scene_III/Scene_3.mb",
+    "start": "601",
+    "end": "636",
+    "camera": "shot_3",
+    "output": "~/Documents/git/CS125_RPS/Scenes/scene_III/renders",
+    "extra": ""
+}
