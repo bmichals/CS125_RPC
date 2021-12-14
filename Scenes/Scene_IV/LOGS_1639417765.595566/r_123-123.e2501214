@@ -1,0 +1,107 @@
+given is experimental at /var/spool/gridengine/execd/mblade1209/job_scripts/2501214 line 18.
+
+Starting "/usr/autodesk/maya2022/bin/maya"
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/2501214.1.long.q/runtime-sgeorge8'
+This plugin does not support createPlatformOpenGLContext!
+Warning: file: /home/sgeorge8/maya/2022/prefs/filePathEditorRegistryPrefs.mel line 4: filePathEditor: Attribute 'aiImage.filename' is invalid or is not designated 'usedAsFilename'.
+Warning: file: /home/sgeorge8/maya/2022/prefs/filePathEditorRegistryPrefs.mel line 5: filePathEditor: Attribute 'aiPhotometricLight.aiFilename' is invalid or is not designated 'usedAsFilename'.
+Warning: file: /home/sgeorge8/maya/2022/prefs/filePathEditorRegistryPrefs.mel line 7: filePathEditor: Attribute 'aiVolume.filename' is invalid or is not designated 'usedAsFilename'.
+Warning: line 1: filePathEditor: Attribute 'aiVolume.filename' and label 'VDB' have been saved already.
+Warning: line 1: filePathEditor: Attribute 'aiImage.filename' and label 'Image' have been saved already.
+Warning: line 1: filePathEditor: Attribute 'aiPhotometricLight.aiFilename' and label 'IES' have been saved already.
+Successfully imported python module 'arnold'
+Successfully imported python module 'mtoa'
+Successfully registered renderer 'arnold'
+Warning: line 1: Reference file not found. : models/room_model.mb
+Warning: line 1: Reference file not found. : models/sharpener.mb
+Warning: line 1: Reference file not found. : models/sharpener.mb
+Warning: line 1: Reference file not found. : /Users/davisbrentwood/Desktop/CS125/final/CS125_RPS//models/sharpener.mb
+File read in  39.2 seconds.
+Result: /home/sgeorge8/Documents/git/CS125_RPS/Scenes/Scene_IV/Scene_4.mb
+Warning: file: /usr/autodesk/maya2022/scripts/others/makeCameraRenderable.mel line 45: Found camera shot_Shape4.
+Warning: OpenSubdiv gets different edge topology to Maya poly.
+Warning: Fail to create OpenSubdiv TopologyRefiner.
+Warning: OpenSubdiv gets different edge topology to Maya poly.
+Warning: Fail to create OpenSubdiv TopologyRefiner.
+Warning: OpenSubdiv gets different edge topology to Maya poly.
+Warning: Fail to create OpenSubdiv TopologyRefiner.
+Warning: OpenSubdiv gets different edge topology to Maya poly.
+Warning: Fail to create OpenSubdiv TopologyRefiner.
+Warning: OpenSubdiv gets different edge topology to Maya poly.
+Warning: Fail to create OpenSubdiv TopologyRefiner.
+Warning: OpenSubdiv gets different edge topology to Maya poly.
+Warning: Fail to create OpenSubdiv TopologyRefiner.
+Warning: OpenSubdiv gets different edge topology to Maya poly.
+Warning: Fail to create OpenSubdiv TopologyRefiner.
+Warning: OpenSubdiv gets different edge topology to Maya poly.
+Warning: Fail to create OpenSubdiv TopologyRefiner.
+Warning: OpenSubdiv gets different edge topology to Maya poly.
+Warning: Fail to create OpenSubdiv TopologyRefiner.
+Warning: OpenSubdiv gets different edge topology to Maya poly.
+Warning: Fail to create OpenSubdiv TopologyRefiner.
+Warning: OpenSubdiv gets different edge topology to Maya poly.
+Warning: Fail to create OpenSubdiv TopologyRefiner.
+Warning: OpenSubdiv gets different edge topology to Maya poly.
+Warning: Fail to create OpenSubdiv TopologyRefiner.
+Warning: OpenSubdiv gets different edge topology to Maya poly.
+Warning: Fail to create OpenSubdiv TopologyRefiner.
+Warning: OpenSubdiv gets different edge topology to Maya poly.
+Warning: Fail to create OpenSubdiv TopologyRefiner.
+Warning: OpenSubdiv gets different edge topology to Maya poly.
+Warning: Fail to create OpenSubdiv TopologyRefiner.
+Warning: OpenSubdiv gets different edge topology to Maya poly.
+Warning: Fail to create OpenSubdiv TopologyRefiner.
+Warning: OpenSubdiv gets different edge topology to Maya poly.
+Warning: Fail to create OpenSubdiv TopologyRefiner.
+Warning: OpenSubdiv gets different edge topology to Maya poly.
+Warning: Fail to create OpenSubdiv TopologyRefiner.
+Warning: OpenSubdiv gets different edge topology to Maya poly.
+Warning: Fail to create OpenSubdiv TopologyRefiner.
+Warning: OpenSubdiv gets different edge topology to Maya poly.
+Warning: Fail to create OpenSubdiv TopologyRefiner.
+Warning: OpenSubdiv gets different edge topology to Maya poly.
+Warning: Fail to create OpenSubdiv TopologyRefiner.
+Warning: OpenSubdiv gets different edge topology to Maya poly.
+Warning: Fail to create OpenSubdiv TopologyRefiner.
+Warning: OpenSubdiv gets different edge topology to Maya poly.
+Warning: Fail to create OpenSubdiv TopologyRefiner.
+Warning: OpenSubdiv gets different edge topology to Maya poly.
+Warning: Fail to create OpenSubdiv TopologyRefiner.
+Warning: OpenSubdiv gets different edge topology to Maya poly.
+Warning: Fail to create OpenSubdiv TopologyRefiner.
+Warning: OpenSubdiv gets different edge topology to Maya poly.
+Warning: Fail to create OpenSubdiv TopologyRefiner.
+Warning: OpenSubdiv gets different edge topology to Maya poly.
+Warning: Fail to create OpenSubdiv TopologyRefiner.
+Warning: OpenSubdiv gets different edge topology to Maya poly.
+Warning: Fail to create OpenSubdiv TopologyRefiner.
+Warning: OpenSubdiv gets different edge topology to Maya poly.
+Warning: Fail to create OpenSubdiv TopologyRefiner.
+Warning: OpenSubdiv gets different edge topology to Maya poly.
+Warning: Fail to create OpenSubdiv TopologyRefiner.
+Warning: OpenSubdiv gets different edge topology to Maya poly.
+Warning: Fail to create OpenSubdiv TopologyRefiner.
+Warning: OpenSubdiv gets different edge topology to Maya poly.
+Warning: Fail to create OpenSubdiv TopologyRefiner.
+Warning: OpenSubdiv gets different edge topology to Maya poly.
+Warning: Fail to create OpenSubdiv TopologyRefiner.
+Warning: OpenSubdiv gets different edge topology to Maya poly.
+Warning: Fail to create OpenSubdiv TopologyRefiner.
+Warning: OpenSubdiv gets different edge topology to Maya poly.
+Warning: Fail to create OpenSubdiv TopologyRefiner.
+Warning: OpenSubdiv gets different edge topology to Maya poly.
+Warning: Fail to create OpenSubdiv TopologyRefiner.
+Warning: OpenSubdiv gets different edge topology to Maya poly.
+Warning: Fail to create OpenSubdiv TopologyRefiner.
+Warning: OpenSubdiv gets different edge topology to Maya poly.
+Warning: Fail to create OpenSubdiv TopologyRefiner.
+Warning: OpenSubdiv gets different edge topology to Maya poly.
+Warning: Fail to create OpenSubdiv TopologyRefiner.
+Warning: OpenSubdiv gets different edge topology to Maya poly.
+Warning: Fail to create OpenSubdiv TopologyRefiner.
+Warning: OpenSubdiv gets different edge topology to Maya poly.
+Warning: Fail to create OpenSubdiv TopologyRefiner.
+Warning: OpenSubdiv gets different edge topology to Maya poly.
+Warning: Fail to create OpenSubdiv TopologyRefiner.
+Warning: OpenSubdiv gets different edge topology to Maya poly.
+Warning: Fail to create OpenSubdiv TopologyRefiner.
